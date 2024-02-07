@@ -1,5 +1,5 @@
 # Encrypting/Decrypting files using RSA algorithm
-# Author : Ayush Gupta
+# Author : Prakash Raj Baskar Raj
 # Date created : 15-01-2021
 
 from math import floor, log
@@ -88,8 +88,8 @@ def main():
     
     description = """
     RSA ENCRYPTION ALGORITHM [Version %s]
-    source code -> https://github.com/GuptaAyush19/RSA-Cipher
-    Copyright (c) 2021 Ayush Gupta\n
+    source code -> https://github.com/prakashrajbpr/Encryption-of-the-messages/tree/main
+    Copyright (c) 2024 Prakash Raj Baskar Raj\n
     Encrypt/Decrypt files using the corresponding public/private key.
     NOTE: public key is used for encryption and private key for decryption.
     """%(__version__)
